@@ -17,4 +17,5 @@ Minha vida profissional esta ligada a programação em linguagem PHP, utilizando
 
 ##Projetos:
 Aqui alguns dos projetos
-* **Nome do projeto:** link
+* **Nuvem de palavras:** https://github.com/israelruiz2005/python_nuvem_palavras
+* **Web scraping:** https://github.com/israelruiz2005/python/blob/main/linkedin_scraping%20_bem_ou_mal.py
