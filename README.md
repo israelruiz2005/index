@@ -1,6 +1,6 @@
 # index
 <p align="center">
-  <img src="https://github.com/israelruiz2005/index/blob/main/banner-904887_1920.jpg" >
+  <img src="https://github.com/israelruiz2005/index/blob/main/imagem/banner-904887_1920.jpg" >
 </p>
 
 <p>Olá sou um aprendiz de cientista de dados, apaixonado por Python, e neste espaço você encontrará os projetos nos quais estou trabalhando.</p>
