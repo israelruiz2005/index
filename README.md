@@ -13,7 +13,7 @@ Minha vida profissional esta ligada a programação em linguagem PHP, utilizando
 **Conhecimentos em:** PHP, JAVA, SQL,Python
 
 **Links**
-* [LinkedIn] (https://www.linkedin.com/in/ruiz-israel)
+* [LinkedIn](https://www.linkedin.com/in/ruiz-israel)
 
 ## Projetos:
 Aqui alguns dos projetos
