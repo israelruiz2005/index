@@ -30,4 +30,5 @@ Aqui alguns dos projetos
 * **Projeto estudo API cities** https://github.com/israelruiz2005/citiesapi
 * **Projeto estudo API person*** https://github.com/israelruiz2005/personapi
 * **Projeto estudo API beer com Teste** https://github.com/israelruiz2005/beer_api_digital_innovation_one-master
+* **Projeto estudo API sala reuniao com Teste** https://github.com/israelruiz2005/Crud-Spring-liveCoding-Dio-master
 ---
